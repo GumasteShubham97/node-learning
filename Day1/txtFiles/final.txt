@@ -2,8 +2,7 @@ NodeJs Notes
 
     - NodeJS is JAVASCRIPT RUNTIME ENVIRONMENT based on Googles V8 Engine
 
-====================================================================================
-
+    
 Synchronous
 
     - Each statement is processed line by line
@@ -18,8 +17,4 @@ Asynchronous
     - asynchronous is also called as "Non-Blocking"
     - works in the background
 
-NodeJs process
-    
-    - nodejs is single threaded
-    - acessing same thread
-    - 
+Created on 1712399214373

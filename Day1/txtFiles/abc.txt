@@ -1,0 +1,5 @@
+NodeJs Notes
+
+    - NodeJS is JAVASCRIPT RUNTIME ENVIRONMENT based on Googles V8 Engine
+
+    
