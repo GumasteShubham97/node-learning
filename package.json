@@ -9,6 +9,7 @@
   "author": "ssg",
   "license": "ISC",
   "dependencies": {
+    "@types/node": "^24.3.0",
     "node": "^20.19.0"
   }
 }
